@@ -29,7 +29,7 @@ LAST_REG_TIME = {}
 RUNNING_CHAT = set()
 
 # THÊM CẤU HÌNH NHÓM BẮT BUỘC THAM GIA
-MANDATORY_GROUP_ID = -1003444341292
+MANDATORY_GROUP_ID = -5200276577
 MANDATORY_GROUP_TITLE = "𝗣𝗮𝗿𝗮𝗴𝗼𝗻 𝗦𝗲𝗹 ᵎ!ᵎ 𝐟𝐫𝐬 𝐜𝐨𝐝𝐞"
 
 # ================= CONFIG REGISTRATION =================

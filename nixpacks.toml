@@ -4,13 +4,14 @@ nixPkgs = [
     "chromium",
     "chromedriver"
 ]
+# Bổ sung các thư viện hệ thống cần thiết (aptPkgs)
 aptPkgs = [
-    "libnss3",
-    "libatk1.0-0",
-    "libatk-bridge2.0-0",
-    "libcups2",
-    "libdrm2",
-    "libgbm1",
-    "libasound2"
+    "libnss3", 
+    "libatk1.0-0", 
+    "libatk-bridge2.0-0", 
+    "libcups2", 
+    "libdrm2", 
+    "libgbm1", 
+    "libasound2",
+    "ca-certificates"
 ]
-
